@@ -23,14 +23,12 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmit759&" alt="asmit759" />
-  <img src="https://github-readme-stats.vercel.app/api?username=asmit759&show_icons=true&theme=tokyonight"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmit759&layout=compact&theme=tokyonight"/>
 </p>
 
 
 
 <p align="center">
+  <h2 align="center">🎧 Currently Vibing</h2>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316tpr4dqucdp5mrbnfjm4vrk2sq&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316tpr4dqucdp5mrbnfjm4vrk2sq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=4bb847&bar_color_cover=true">
   </a>
